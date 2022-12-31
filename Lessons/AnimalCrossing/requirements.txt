@@ -1,0 +1,14 @@
+module requirements
+In order to run this program without issues or any future projects of mine install playsound and pygame.
+
+you must first install them with pip within the terminal
+
+install modules
+
+uninstall any versions of playsound you have installed with pip unistall playsound
+pip install playsound==1.2.2
+pip unistall pygame
+pygame==2.1.2 (virtually does the same thing as playsound but more flexible)
+The documentation on these modules can be found here
+
+playsound https://pypi.org/project/playsound/ pygame https://www.pygame.org/docs/
