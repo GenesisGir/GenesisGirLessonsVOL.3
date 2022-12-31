@@ -32,3 +32,10 @@ create and make new friends and get in tricky situations in Animal Crossing: Poc
 In this .py you can learn a lot from what I did and discover methods I use to make things work! This is very Novice level friendly and if you find yourself lost just make sure to look at the comments next to the lines of code to see what each line does and why I added those functions and how they are being implemented. again this is very user friendly and very easy to understand I made these projects so someone new to coding can learn and develop skills like I have to make their own programs and have somewhere to start in the world of coding!
 
 # screenshots
+![2022-12-31 12 15 36 Token py - Github - Visual Stu](https://user-images.githubusercontent.com/87259615/210150997-5fd0a2ac-78d4-4d8c-8939-17880210972d.png)
+
+![2022-12-31 12 15 59 PlayerElements py - Github - V](https://user-images.githubusercontent.com/87259615/210151009-f2232d93-4f42-464e-856d-71b776b3c130.png)
+
+![kk](https://user-images.githubusercontent.com/87259615/210151053-2c13cb30-487a-4e83-abe1-eb7f4db1e4d6.png)
+
+
