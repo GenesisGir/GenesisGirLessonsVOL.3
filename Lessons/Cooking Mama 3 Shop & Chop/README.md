@@ -1,5 +1,16 @@
+# Cooking Mama 3: Shop & Chop
 
-# README.md
+Cooking Mama 3: Shop & Chop is the sixth installmeant in the Cooking Mama series and is the third in the main handheld "Cooking Mama" series. GenesisGir brings you to a land of beautifully crafted foods and amazing eatery with the help of Mama you can Mix, Dice, Slice, Bake your own foods and dishes from scratch! Earn your chef status and prove to us that you can cook better than you think you can! Make fantastic dishes with the cooking with the mama mode and put your cooking skills to the test! In this .py you will learn how to use functions, methods, attributes and various skills such like using parameters in functions, global statements and many more!
+
+![349-3491476_cooking-mama-cooking-mama-3-shop-and-chop](https://user-images.githubusercontent.com/87259615/168889826-9383bbb5-1b2c-4319-af16-64a83b45f807.png)
+
+丂ㄖㄩ尺⼕🝗 ⼕ㄖᗪ🝗 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂Ꮆ讠尺
+
+𝘾𝙤𝙤𝙠𝙞𝙣𝙜 𝙈𝙖𝙢𝙖 3: 𝙎𝙝𝙤𝙥 & 𝘾𝙝𝙤𝙥 𝙬𝙖𝙨 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝙗𝙮 𝙈𝙖𝙟𝙚𝙨𝙘𝙤 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩
+
+# Learn , Discover , Explore
+
+In this .py you can learn a lot from what I did and discover methods I use to make things work! This is very Novice level friendly and if you find yourself lost just make sure to look at the comments next to the lines of code to see what each line does and why I added those functions and how they are being implemented. again this is very user friendly and very easy to understand I made these projects so someone new to coding can learn and develop skills like I have to make their own programs and have somewhere to start in the world of coding!
 
 # module requirements
 
@@ -17,26 +28,6 @@ The documentation on these modules can be found here
 
 playsound <https://pypi.org/project/playsound/>
 pygame <https://www.pygame.org/docs/>
-
-# Cooking Mama 3: Shop & Chop
-
-Cooking Mama 3: Shop & Chop is the sixth installmeant in the Cooking Mama series and is the third in the main
-<<<<<<< HEAD
-handheld "Cooking Mama" series. GenesisGir brings you to a land of beautifully crafted foods and amazing eatery
-=======
-handheld "Cooking Mama" series. Moore Kitsune brings you to a land of beautifully crafted foods and amazing eatery
->>>>>>> 082ae16eae7969a7aad0000672c172888a94b1e3
-with the help of Mama you can Mix, Dice, Slice, Bake your own foods and dishes from scratch! Earn your chef status and prove to us that you can cook better than you think you can! Make fantastic dishes with the cooking with the mama mode and put your cooking skills to the test! In this .py you will learn how to use functions, methods, attributes and various skills such like using parameters in functions, global statements and many more!
-
-![349-3491476_cooking-mama-cooking-mama-3-shop-and-chop](https://user-images.githubusercontent.com/87259615/168889826-9383bbb5-1b2c-4319-af16-64a83b45f807.png)
-
-丂ㄖㄩ尺⼕🝗 ⼕ㄖᗪ🝗 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂Ꮆ讠尺
-
-𝘾𝙤𝙤𝙠𝙞𝙣𝙜 𝙈𝙖𝙢𝙖 3: 𝙎𝙝𝙤𝙥 & 𝘾𝙝𝙤𝙥 𝙬𝙖𝙨 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝙗𝙮 𝙈𝙖𝙟𝙚𝙨𝙘𝙤 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩
-
-# Learn , Discover , Explore
-
-In this .py you can learn a lot from what I did and discover methods I use to make things work! This is very Novice level friendly and if you find yourself lost just make sure to look at the comments next to the lines of code to see what each line does and why I added those functions and how they are being implemented. again this is very user friendly and very easy to understand I made these projects so someone new to coding can learn and develop skills like I have to make their own programs and have somewhere to start in the world of coding!
 
 # screenshots
 
